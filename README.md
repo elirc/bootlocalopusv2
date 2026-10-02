@@ -172,4 +172,7 @@ that fails for the right reason, and reviewing someone else's change.
 
 **`upskilling/`** holds a mid→senior programme that uses this repository as
 the vehicle, the adversarial reviews that shaped v2 (kept verbatim), and a
-journal of what went wrong and what it taught.
+journal of what went wrong and what it taught. The engine course —
+a code tour of the grader, break-and-observe exercises against it, and the
+external three-rebuild capstone track — starts at
+[upskilling/course/LEARNING-PATH.md](upskilling/course/LEARNING-PATH.md).
